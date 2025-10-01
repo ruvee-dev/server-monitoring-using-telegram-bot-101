@@ -1,0 +1,13 @@
+#!/bin/bash
+set -euo pipefail
+
+source /etc/telegram/telegram.env
+
+MESSAGE="$1"
+
+for CHAT_ID in $(echo "$TELEGRAM_CHAT_IDS" | tr "," "\n"); do
+curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+    -d chat_id="$CHAT_ID" \
+    -d text="$MESSAGE" \
+    -d parse_mode="Markdown" > /dev/null
+done

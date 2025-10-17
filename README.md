@@ -1,9 +1,9 @@
 <div align="center">
   <h2>Monitor Your Server with Real-Time Telegram Notifications</h2>
-  <a href="#tutorial">
+  <a href="#tutorial" style="text-decoration: none;">
     <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram-bot-blue?logo=telegram&labelColor=gray">
   </a>
-  <a href="#tutorial">
+  <a href="#tutorial" style="text-decoration: none;">
     <img alt="Linux Ubuntu" src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white">
   </a>
 </div>  
@@ -18,7 +18,7 @@ This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-
 
 <p style="background-color: green; color: white;">
 
-> **The full, step by step, tutorial on how to use and set these scripts up on your servers can be found on <a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank">Hetzner community</a>**
+> **The full, step by step, tutorial on how to use and set these scripts up on your servers can be found on <a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank" style="text-decoration: none;">Hetzner community</a>**
 
 </p>
 
@@ -41,7 +41,7 @@ This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-
 
 <div align="center">
 
-✨<a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank">How to use these scripts</a>✨
+✨<a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank" style="text-decoration: none;">How to use these scripts</a>✨
 
 </div>  
 

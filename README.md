@@ -1,15 +1,28 @@
-# Monitor Your Server with Real-Time Telegram Notifications  
+<div align="center">
+  <h2>Monitor Your Server with Real-Time Telegram Notifications</h2>
+  <a href="#tutorial">
+    <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram-bot-blue?logo=telegram&labelColor=gray">
+  </a>
+  <a href="#tutorial">
+    <img alt="Linux Ubuntu" src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white">
+  </a>
+</div>  
 
-<p align="center">
-  <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram-bot-blue?logo=telegram&labelColor=gray">
-  <img alt="Linux Ubuntu" src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white">
-</p>
+---  
+
+## Description
 
 This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-time notifications and updates from your servers 🔔
 
+## Tutorial
+
 <div align="center">
 
-> **The full, step by step, tutorial on how to use and set these scripts up on your servers can be found on [Hetzner community](https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot)**
+<p style="background-color: green; color: white;">
+
+> **The full, step by step, tutorial on how to use and set these scripts up on your servers can be found on <a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank">Hetzner community</a>**
+
+</p>
 
 </div>  
 
@@ -30,7 +43,7 @@ This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-
 
 <div align="center">
 
-✨[How to use these scripts](https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot).✨
+✨<a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank">How to use these scripts</a>✨
 
 </div>  
 
@@ -42,6 +55,6 @@ This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-
 
 <div align="center">
 
-![Monitor Your Server with Real-Time Telegram Notifications](images/main-shrinked-1000x1000.webp)
+<img alt="Monitor Your Server with Real-Time Telegram Notifications" src="images/main-shrinked-1000x1000.webp" width="300">
 
 </div>

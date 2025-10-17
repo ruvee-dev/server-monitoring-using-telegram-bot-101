@@ -3,6 +3,7 @@
   <a href="#tutorial"><img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram-bot-blue?logo=telegram&labelColor=gray"></a>
   <a href="#tutorial"><img alt="Linux Ubuntu" src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
   <a href="https://github.com/ruvee-dev/server-monitoring-using-telegram-bot-101?tab=MIT-1-ov-file#readme"><img alt="License MIT" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+  <a href="#description"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/ruvee-dev/server-monitoring-using-telegram-bot-101"></a>
 </div>  
 
 ### Description

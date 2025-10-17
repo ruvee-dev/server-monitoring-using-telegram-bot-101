@@ -16,7 +16,7 @@ This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-
 
 <p style="background-color: green; color: white;">
 
-> **The full, step by step, tutorial on how to use and set these scripts up on your servers can be found on <a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank">Hetzner community</a>**
+> **The full, step by step, tutorial on how to use and set these scripts up on your servers can be found on <a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank" rel="noopener noreferrer">Hetzner community</a>**
 
 </p>
 
@@ -39,7 +39,7 @@ This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-
 
 <div align="center" id="f-cta">
 
-✨<a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank">How to use these scripts</a>✨
+✨<a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank" rel="noopener noreferrer">How to use these scripts</a>✨
 
 </div>  
 

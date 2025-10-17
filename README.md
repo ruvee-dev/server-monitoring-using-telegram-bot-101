@@ -1,9 +1,9 @@
 <div align="center">
   <h2>Monitor Your Server with Real-Time Telegram Notifications</h2>
-  <a href="#tutorial"><img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram-bot-blue?logo=telegram&labelColor=gray&logoColor=white"></a>
-  <a href="#tutorial"><img alt="Linux Ubuntu" src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
-  <a href="https://github.com/ruvee-dev/server-monitoring-using-telegram-bot-101?tab=MIT-1-ov-file#readme"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-gree?logo=rocket&logoColor=white"></a>
-  <a href="#description"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/ruvee-dev/server-monitoring-using-telegram-bot-101?logo=github"></a>
+  <a href="#f-cta"><img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram&labelColor=gray&logoColor=white"></a>
+  <a href="#f-cta"><img alt="Linux Ubuntu" src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
+  <a href="https://github.com/ruvee-dev/server-monitoring-using-telegram-bot-101?tab=MIT-1-ov-file#readme"><img alt="License MIT" src="https://img.shields.io/badge/License-MIT-gree?logo=rocket&logoColor=white"></a>
+  <a href="#description"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/ruvee-dev/server-monitoring-using-telegram-bot-101?logo=github&label=Repository Size"></a>
 </div>  
 
 ### Description
@@ -37,7 +37,7 @@ This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-
 
 </div>
 
-<div align="center">
+<div align="center" id="f-cta">
 
 ✨<a href="https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot" target="_blank">How to use these scripts</a>✨
 

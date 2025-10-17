@@ -33,3 +33,15 @@ This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-
 ✨[How to use these scripts](https://community.hetzner.com/tutorials/server-monitoring-using-telegram-bot).✨
 
 </div>  
+
+<div align="center">
+
+<hr>
+
+</div>
+
+<div align="center">
+
+![Monitor Your Server with Real-Time Telegram Notifications](images/main-shrinked-1000x1000.webp)
+
+</div>

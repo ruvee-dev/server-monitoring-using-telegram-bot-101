@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Monitor Your Server with Real-Time Telegram Notifications</h2>
-  <a href="#tutorial"><img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram-bot-blue?logo=telegram&labelColor=gray"></a>
+  <a href="#tutorial"><img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram-bot-blue?logo=telegram&labelColor=gray&logoColor=white"></a>
   <a href="#tutorial"><img alt="Linux Ubuntu" src="https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
   <a href="https://github.com/ruvee-dev/server-monitoring-using-telegram-bot-101?tab=MIT-1-ov-file#readme"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-gree?logo=rocket&logoColor=white"></a>
   <a href="#description"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/ruvee-dev/server-monitoring-using-telegram-bot-101?logo=github"></a>

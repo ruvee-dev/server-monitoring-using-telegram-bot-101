@@ -8,13 +8,11 @@
   </a>
 </div>  
 
----  
-
-## Description
+### Description
 
 This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-time notifications and updates from your servers 🔔
 
-## Tutorial
+### Tutorial
 
 <div align="center">
 
@@ -26,7 +24,7 @@ This repo contains scripts needed to set up a Telegram bot 🤖 that sends real-
 
 </div>  
 
-## Features
+### Features
 
 * 💰 It's free. No limits.
 * ⭐ Easy to set up, just an app installation and a bot token.
